@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "src": "https://cdn.pixabay.com/photo/2018/05/28/22/11/message-in-a-bottle-3437294__340.jpg",
+      "alt": "Message in a Bottle",
+      "category": "Nature"
+    },
+    {
+      "id": 2,
+      "src": "https://media.istockphoto.com/photos/view-of-sydney-harbour-australia-picture-id535455441?k=6&m=535455441&s=612x612&w=0&h=jVkW0bOqvffn2SzvUdncgkwHGScJRzak0oaQGij__h8=",
+      "alt": "Sydney Harbour, Australia",
+      "category": "Travel"
+    },
+    {
+      "id": 3,
+      "src": "https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "alt": "Beach Sunset",
+      "category": "Nature"
+    },
+    {
+      "id": 4,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3WnzXzbr2hiB8lPq3n_p5fnQdvOMc3Ouummyk11uVylX-7rtdXA",
+      "alt": "Image 4",
+      "category": "Abstract"
+    },
+    {
+        "id": 5,
+        "src": "https://www.w3schools.com/w3css/img_lights.jpg",
+        "alt": "Image 5",
+        "category": "Abstract"
+        },
+    {
+      "id": 6,
+      "src": "https://www.w3schools.com/w3css/img_lights.jpg",
+      "alt": "Image 6",
+      "category": "Abstract"
+    },
+    {
+      "id": 7,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-oo8-jn28YVesncpNZ4cBHocvHtKLwzmpVDbq1k7KNa5jEiL",
+      "alt": "Image 7",
+      "category": "Abstract"
+    },
+    {
+      "id": 8,
+      "src": "https://media.cntraveller.in/wp-content/uploads/2018/10/GettyImages-990972132-866x487.jpg",
+      "alt": "Image 8",
+      "category": "Travel"
+    },
+    {
+      "id": 9,
+      "src": "https://www.w3schools.com/howto/img_snow.jpg",
+      "alt": "Image 9",
+      "category": "Nature"
+    },
+    {
+      "id": 10,
+      "src": "https://images.unsplash.com/photo-1541233349642-6e425fe6190e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+      "alt": "Image 10",
+      "category": "Travel"
+    }
+  ]
+  
